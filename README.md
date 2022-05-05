@@ -30,7 +30,6 @@ To see the messages, please install the react app which displays the messages. C
 - `cd` into the generated directory
 - Run `bundle install`
 - In the pgsql, create a new role with the name of "postgres"
-- export DATABASE_PASSWORD= 123456
 - Run `rails db:create` 
 - Run `rails db:migrate` 
 - Run `rails db:seed` 
